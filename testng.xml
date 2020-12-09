@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Neiman Marcus Test Suite">
+    <listeners>
+        <listener class-name="reports.ExtentReportsListeners"/>
+    </listeners>
+    <test preserve-order="true" name="Tests">
+        <classes>
+        </classes>
+    </test>
+</suite>
