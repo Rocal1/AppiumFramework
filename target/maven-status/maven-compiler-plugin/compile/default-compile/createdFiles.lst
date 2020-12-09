@@ -1,5 +1,0 @@
-reports/ExtentReport.class
-reports/ExtentReportsListeners.class
-driver/Capabilities.class
-driver/AppiumServer.class
-Utils/NeimanUtils.class
